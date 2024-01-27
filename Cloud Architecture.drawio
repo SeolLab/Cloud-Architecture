@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T18:11:26.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pHOsxb_lsle4PHX8UTh3" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T18:12:48.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="afO85SoU4fEF-z2CNfO-" version="23.0.2" type="github">
   <diagram name="Page-1" id="USR367LSW2mc3w9Vi0fn">
-    <mxGraphModel dx="2391" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1168,6 +1168,9 @@
         </mxCell>
         <mxCell id="G_aPi1VRds7GqaE-pKPG-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Suppots&lt;br&gt;+ Audit&amp;nbsp;&lt;br&gt;+ Security Monitoring&lt;br&gt;+ Operational Troubleshooting&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2642" y="2070" width="396.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G_aPi1VRds7GqaE-pKPG-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;AWS CloudTrail :&amp;nbsp;&lt;/b&gt;&lt;/font&gt;CloudTrail은 AWS 인프라 전체의 계정활동을 모니터링하고 기록하여 스토리지, 분석 및 해결 작업을 제어할 수있도록 합니다." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="554.5" width="449" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
