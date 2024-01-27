@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T18:09:55.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9kJ1SMuqDuDKq7uR6FRZ" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T18:11:26.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pHOsxb_lsle4PHX8UTh3" version="23.0.2" type="github">
   <diagram name="Page-1" id="USR367LSW2mc3w9Vi0fn">
     <mxGraphModel dx="2391" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -939,7 +939,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aMujoTNeKdqyZy779u_A-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2440" y="440" width="539" height="1350" as="geometry" />
+          <mxGeometry x="2440" y="440" width="539" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="aMujoTNeKdqyZy779u_A-6" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2458.5" y="452.5" width="40" height="38" as="geometry" />
@@ -975,7 +975,7 @@
           <mxGeometry x="2458.5" y="1520" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="aMujoTNeKdqyZy779u_A-26" value="11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2457" y="1640" width="40" height="38" as="geometry" />
+          <mxGeometry x="2830" y="1488.62" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="aMujoTNeKdqyZy779u_A-29" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1440" y="2300" width="177.5" height="244" as="geometry" />
@@ -1110,7 +1110,7 @@
           <mxGeometry x="30" y="-10" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="G_aPi1VRds7GqaE-pKPG-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1880" y="2030" width="204" height="235" as="geometry" />
+          <mxGeometry x="1880" y="2030" width="1150" height="290" as="geometry" />
         </mxCell>
         <mxCell id="G_aPi1VRds7GqaE-pKPG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="G_aPi1VRds7GqaE-pKPG-8" source="G_aPi1VRds7GqaE-pKPG-5">
           <mxGeometry relative="1" as="geometry">
@@ -1122,6 +1122,9 @@
         </mxCell>
         <mxCell id="G_aPi1VRds7GqaE-pKPG-7" value="&lt;h1&gt;Store&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="G_aPi1VRds7GqaE-pKPG-8">
           <mxGeometry x="69" y="182" width="127" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="G_aPi1VRds7GqaE-pKPG-24" value="" style="swimlane;startSize=0;" vertex="1" parent="G_aPi1VRds7GqaE-pKPG-8">
+          <mxGeometry x="-244" y="-275" width="1410" height="510" as="geometry" />
         </mxCell>
         <mxCell id="G_aPi1VRds7GqaE-pKPG-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2138.12" y="2050" width="224.6300000000001" height="215" as="geometry" />
@@ -1162,6 +1165,9 @@
         </mxCell>
         <mxCell id="G_aPi1VRds7GqaE-pKPG-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;View recent events in the AWS cloudTrail console or analyze log files with Amazon Athena&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2499.5" y="1820" width="305.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G_aPi1VRds7GqaE-pKPG-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Suppots&lt;br&gt;+ Audit&amp;nbsp;&lt;br&gt;+ Security Monitoring&lt;br&gt;+ Operational Troubleshooting&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2642" y="2070" width="396.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
