@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T16:33:03.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="24-HYHaylVUY4iMEmlVi" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T16:33:15.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1UHaEhFnJXJVBzDzSJue" version="23.0.2" type="github">
   <diagram name="Page-1" id="USR367LSW2mc3w9Vi0fn">
-    <mxGraphModel dx="1969" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,7 +343,7 @@
             <mxPoint x="1038.4418104942129" y="349.4262467855492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWDAH8tbiLXYq7UvUhip-100" value="&lt;b&gt;Network&lt;br&gt;BackBone&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HWDAH8tbiLXYq7UvUhip-101" vertex="1">
+        <mxCell id="HWDAH8tbiLXYq7UvUhip-100" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Network&lt;br&gt;BackBone&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HWDAH8tbiLXYq7UvUhip-101" vertex="1">
           <mxGeometry x="776.2944479101687" y="296.36187344547017" width="126.84549802453739" height="109.18595337464689" as="geometry" />
         </mxCell>
         <mxCell id="HWDAH8tbiLXYq7UvUhip-49" value="&lt;h1&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;내부망&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
