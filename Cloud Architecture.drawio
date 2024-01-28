@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T02:11:53.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hMsoeskXRxj3qFi9yB6j" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-28T02:24:44.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kej_LpQJ1Yh2fCOuQzf5" version="23.0.2" type="github">
   <diagram name="Page-1" id="USR367LSW2mc3w9Vi0fn">
-    <mxGraphModel dx="7667" dy="3060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1556" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,11 +520,11 @@
         <mxCell id="lskhzveCccsHmotwAhTv-40" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;u&gt;VLAN&lt;/u&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="13gDnYbm8p3WftYR3-Uw-6" vertex="1">
           <mxGeometry x="-180" y="58.19461538461519" width="307" height="39.615384615384606" as="geometry" />
         </mxCell>
-        <mxCell id="13gDnYbm8p3WftYR3-Uw-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Type A-1&lt;br&gt;AD 서버를 사용하지 않을 경우&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="13gDnYbm8p3WftYR3-Uw-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Type A-1&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;Infrastructure Servers&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(AD 서버)&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;를 사용하지 않을 경우&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="5030" y="64.49999999999989" width="387.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="13gDnYbm8p3WftYR3-Uw-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Type B&lt;br&gt;AD 서버를 사용하는 경우&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="5831.65" y="2020.62" width="305.25" height="30" as="geometry" />
+        <mxCell id="13gDnYbm8p3WftYR3-Uw-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Type B&lt;br&gt;Infrastructure Servers&lt;br&gt;(AD 서버)를 사용하는 경우&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="5476.4" y="2020" width="305.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="13gDnYbm8p3WftYR3-Uw-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="6176" y="510.6199999999999" width="320" height="206" as="geometry" />
@@ -948,6 +948,33 @@
         </mxCell>
         <mxCell id="_kOqmS3MnVISuiySdPk1-101" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/aws-ec2-icon-423x512-iaajemnx.png;" vertex="1" parent="lskhzveCccsHmotwAhTv-128">
           <mxGeometry x="2564.71" y="1715" width="92.53" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-118" value="" style="group" vertex="1" connectable="0" parent="lskhzveCccsHmotwAhTv-128">
+          <mxGeometry x="968.3500000000004" y="2620" width="728.8699999999999" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-106" value="" style="group" vertex="1" connectable="0" parent="_kOqmS3MnVISuiySdPk1-118">
+          <mxGeometry y="60" width="670" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-104" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/explore-cloud-compute-with-aws/images/a5e3449a391958b596f22761913e5c59_5-e-0-ae-8-c-9-1-f-6-c-42-da-9-a-10-68-a-176505-eaf.png;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-106">
+          <mxGeometry x="131.6199999999999" width="124" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-105" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Active Directory&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-106">
+          <mxGeometry y="130" width="387.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-117" value="" style="swimlane;startSize=0;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-106">
+          <mxGeometry x="51.62" y="-90" width="618.38" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-107" value="" style="group" vertex="1" connectable="0" parent="_kOqmS3MnVISuiySdPk1-118">
+          <mxGeometry x="341.6199999999999" y="60" width="387.25" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-108" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/explore-cloud-compute-with-aws/images/a5e3449a391958b596f22761913e5c59_5-e-0-ae-8-c-9-1-f-6-c-42-da-9-a-10-68-a-176505-eaf.png;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-107">
+          <mxGeometry x="131.6199999999999" width="124" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-109" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Jump Server&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-107">
+          <mxGeometry y="130" width="387.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-110" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Infrastructure Servers&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-118">
+          <mxGeometry x="167.6199999999999" width="387.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lskhzveCccsHmotwAhTv-132" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lskhzveCccsHmotwAhTv-109" target="lskhzveCccsHmotwAhTv-131" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1401,38 +1428,17 @@
         <mxCell id="_kOqmS3MnVISuiySdPk1-93" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/aws-ec2-icon-423x512-iaajemnx.png;" vertex="1" parent="1">
           <mxGeometry x="6768.009999999999" y="4200" width="92.53" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="_kOqmS3MnVISuiySdPk1-102" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Type A-2&lt;br&gt;AD 서버를 사용하지 않을 경우&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5044.4" y="980" width="387.25" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_kOqmS3MnVISuiySdPk1-103" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="1597" y="4429" width="190" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="_kOqmS3MnVISuiySdPk1-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4108.38" y="4550" width="387.25" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="_kOqmS3MnVISuiySdPk1-104" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/explore-cloud-compute-with-aws/images/a5e3449a391958b596f22761913e5c59_5-e-0-ae-8-c-9-1-f-6-c-42-da-9-a-10-68-a-176505-eaf.png;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-106">
-          <mxGeometry x="131.6199999999999" width="124" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="_kOqmS3MnVISuiySdPk1-105" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Active Directory&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-106">
-          <mxGeometry y="130" width="387.25" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_kOqmS3MnVISuiySdPk1-107" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="4450" y="4550" width="387.25" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="_kOqmS3MnVISuiySdPk1-108" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/explore-cloud-compute-with-aws/images/a5e3449a391958b596f22761913e5c59_5-e-0-ae-8-c-9-1-f-6-c-42-da-9-a-10-68-a-176505-eaf.png;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-107">
-          <mxGeometry x="131.6199999999999" width="124" height="124" as="geometry" />
-        </mxCell>
-        <mxCell id="_kOqmS3MnVISuiySdPk1-109" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Jump Server&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-107">
-          <mxGeometry y="130" width="387.25" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_kOqmS3MnVISuiySdPk1-110" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Infrastructure Servers&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4276" y="4490" width="387.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_kOqmS3MnVISuiySdPk1-113" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="5040" y="140" width="2070" height="780" as="geometry" />
         </mxCell>
         <mxCell id="_kOqmS3MnVISuiySdPk1-116" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="5040" y="1040" width="1100" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-119" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Type A-2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 24px;&quot;&gt;Infrastructure Servers&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(AD 서버)&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;를 사용하지 않을 경우&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5030" y="979.9999999999999" width="387.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
