@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T03:07:13.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="M27su7w-IA9lcNirOWNw" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-28T03:11:08.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="K-lQ-a1_HgppS1yrJxo1" version="23.0.2" type="github">
   <diagram name="Page-1" id="USR367LSW2mc3w9Vi0fn">
-    <mxGraphModel dx="20680" dy="8680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6893" dy="2893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,7 +434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HWDAH8tbiLXYq7UvUhip-145" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1465" y="4792" width="461" height="305" as="geometry" />
+          <mxGeometry x="1030" y="4950" width="461" height="305" as="geometry" />
         </mxCell>
         <mxCell id="aMujoTNeKdqyZy779u_A-73" value="" style="group" parent="HWDAH8tbiLXYq7UvUhip-145" vertex="1" connectable="0">
           <mxGeometry width="461" height="305" as="geometry" />
@@ -1494,6 +1494,15 @@
             <mxPoint x="3320" y="4000" as="sourcePoint" />
             <mxPoint x="4186" y="3126" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-146" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1500" y="4980" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-144" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://awsvideocatalog.com/images/aws/png/PNG%20Light/Storage/AWS-Storage-Gateway.png;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-146">
+          <mxGeometry width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_kOqmS3MnVISuiySdPk1-145" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;AWS Storage Gateway&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_kOqmS3MnVISuiySdPk1-146">
+          <mxGeometry x="16" y="207.56756756756758" width="128" height="32.43243243243243" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
