@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T15:53:21.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="xSzmNipv7fUuz1AL1H1w" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T16:44:59.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Ww9g5ZiKbcKSDugnlgtl" version="23.1.1" type="github">
   <diagram name="Page-1" id="USR367LSW2mc3w9Vi0fn">
-    <mxGraphModel dx="3229" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3767" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1180,7 +1180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_kOqmS3MnVISuiySdPk1-14" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;VPC&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="5175.65" y="2523.8599999999997" width="305.25" height="30" as="geometry" />
+          <mxGeometry x="5175.65" y="2595.8599999999997" width="305.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_kOqmS3MnVISuiySdPk1-23" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="4458" y="6948" width="240" height="220" as="geometry" />
@@ -1506,6 +1506,9 @@
         </mxCell>
         <mxCell id="aMujoTNeKdqyZy779u_A-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/2346885-200.png;" parent="aMujoTNeKdqyZy779u_A-30" vertex="1">
           <mxGeometry x="288.5" y="241" width="105.5" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sk_SlEmWZDj6iQ9kanj-4" value="&lt;h1 class=&quot;topictitle&quot; id=&quot;welcome&quot; style=&quot;font-size: 2.25em; margin: 30px 0px 10px; color: rgb(22, 25, 31); line-height: 1.226em; padding: 0px; scroll-margin-top: 100px; font-family: &amp;quot;Amazon Ember&amp;quot;, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;CodeCatalyst&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="6897" y="2020" width="250" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
